@@ -1,0 +1,19 @@
+Open 
+- index.php 
+edit line 
+- 65 to 68 
+
+Open 
+- get_file.php 
+edit line 
+- 155 to 158
+
+Open 
+- connect.php
+Write your data from the database.
+Change the value in following lines: "$dB" , "$host", "$password" "$host".
+
+ADS 300x250 , 
+top ads partner for this script
+
+Created by Sasha Puzikov (www.puzikov.org)
