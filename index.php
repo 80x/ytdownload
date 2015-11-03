@@ -77,9 +77,9 @@ document.write("<scr"+"ipt type='text/javascript' src='http://www.cpmaffiliation
     </div>
 </div>
 
-
 <script src="js/jquery-1.7.2.min.js"></script>
 <script src="js/bootstrap.js"></script>
+
 </body>
 
 </html>
